@@ -44,9 +44,9 @@ Our solution scored 0.12255 and takes 661st place out of 1266 solutions in the k
 
 ## 📦 Features
 
--- **Deep Learning**
--- **Image classification**
--- **High accuracy**
+- **Deep Learning**
+- **Image classification**
+- **High accuracy**
 ---
 
 
